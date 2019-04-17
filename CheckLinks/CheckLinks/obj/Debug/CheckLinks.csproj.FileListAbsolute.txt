@@ -1,0 +1,10 @@
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\bin\Debug\CheckLinks.exe.config
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\bin\Debug\CheckLinks.exe
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\bin\Debug\CheckLinks.pdb
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\bin\Debug\EntityFramework.dll
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\bin\Debug\EntityFramework.SqlServer.dll
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\bin\Debug\EntityFramework.xml
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\bin\Debug\EntityFramework.SqlServer.xml
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\obj\Debug\CheckLinks.csprojResolveAssemblyReference.cache
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\obj\Debug\CheckLinks.exe
+G:\Hinet\2019\07. Kiểm tra liên kết hoạt động\CheckLinks\CheckLinks\obj\Debug\CheckLinks.pdb
